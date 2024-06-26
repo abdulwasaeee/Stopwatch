@@ -1,0 +1,28 @@
+body{
+    font-family: 'Press Start 2P', system-ui;
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+.stopwatch-container{
+    text-align: center;
+
+}
+#stopwatch{
+    font-size: xxx-large;
+    margin-bottom: 10px;
+    
+}
+button {
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    background-color: #0d6efd;
+    border: #0d6efd;
+    border-radius: 5px;
+    font-size: large;
+    width: 100px;
+}
